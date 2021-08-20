@@ -12,6 +12,7 @@
                         }
                         
                         h3 {
+                            font-family: 'Marck Script', cursive;
                             font-size: 28px;
                         }
                         
@@ -21,10 +22,19 @@
                         }
                         
                         h1 {
+                            font-family: 'Allison', cursive;
+                            font-size: 60px;
+                        }
+                        
+                        h4 {
+                            font-family: 'Marck Script', cursive;
                             font-size: 40px;
                         }
                         
-                        p {
+                        p,
+                        h5 {
+                            font-family: 'Lato', sans-serif;
+                            font-weight: 600;
                             font-size: 20px;
                         }
                         
