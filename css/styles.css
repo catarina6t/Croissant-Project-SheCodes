@@ -1,64 +1,67 @@
-                        body {
-                            max-width: 2000px;
-                            background-color: rgb(255, 255, 255);
-                        }
-                        
-                        h1,
-                        h3,
-                        h4,
-                        h5,
-                        p {
-                            text-align: center;
-                        }
-                        
-                        h3 {
-                            font-family: 'Marck Script', cursive;
-                            font-size: 28px;
-                        }
-                        
-                        h4,
-                        h5 {
-                            font-size: 20px;
-                        }
-                        
-                        h1 {
-                            font-family: 'Allison', cursive;
-                            font-size: 60px;
-                        }
-                        
-                        h4 {
-                            font-family: 'Marck Script', cursive;
-                            font-size: 40px;
-                        }
-                        
-                        p,
-                        h5 {
-                            font-family: 'Lato', sans-serif;
-                            font-weight: 600;
-                            font-size: 20px;
-                        }
-                        
-                        .image {
-                            display: block;
-                            margin-left: auto;
-                            margin-right: auto;
-                        }
-                        
-                        .link {
-                            text-align: center;
-                        }
-                        
-                        button {
-                            font-size: 20px;
-                            width: 20%;
-                            height: 40%;
-                            background-color: rgb(230, 116, 5);
-                            color: rgb(247, 245, 239);
-                            border: 4px rgb(97, 90, 67);
-                        }
-                        
-                        img {
-                            display: block;
-                            margin-left: auto;
-                            margin-right: auto;
-                        }
+body {
+    max-width: 2000px;
+    background-color: rgb(255, 255, 255);
+}
+
+h1,
+h3,
+h4,
+h5,
+p {
+    text-align: center;
+}
+
+h3 {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+h4,
+h5 {
+    font-size: 20px;
+}
+
+h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+}
+
+h4 {
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+p,
+h5 {
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    text-align: center;
+}
+
+button {
+    font-size: 20px;
+    width: 20%;
+    height: 40%;
+    background-color: rgb(230, 116, 5);
+    color: rgb(247, 245, 239);
+    border: 4px rgb(97, 90, 67);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
